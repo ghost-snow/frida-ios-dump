@@ -1,4 +1,4 @@
-**源文件dump.py是python2版本的，py3请使用dump-py3.py**
+# 源文件dump.py是python2版本的，py3请使用dump-py3.py
 **python 3 please checkout 3.x branch**
 
 # frida-ios-dump
