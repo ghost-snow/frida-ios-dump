@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Author : AloneMonkey
+# UpdaterGh0st-sn0w
 # blog: www.alonemonkey.com
 
 import sys
